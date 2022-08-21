@@ -1,0 +1,24 @@
+{
+  "compilerOptions": {
+    "target"                          : "ESNext",
+    "module"                          : "ESNext",
+    "lib"                             : ["DOM", "ESNext"],
+    "esModuleInterop"                 : true,
+    "sourceMap"                       : true,
+    "strict"                          : true,
+    "noUnusedLocals"                  : true,
+    "noUnusedParameters"              : true,
+    "noImplicitReturns"               : true,
+    "noFallthroughCasesInSwitch"      : true,
+    "forceConsistentCasingInFileNames": true,
+    "useDefineForClassFields"         : true,
+    "noEmit"                          : true
+  },
+  "include": [
+    "src/**/*",
+    "**/*.spec.*"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}
