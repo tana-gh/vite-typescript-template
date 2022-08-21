@@ -1,0 +1,129 @@
+├─ Apache-2.0
+│  └─ typescript@4.7.4
+│     ├─ URL: https://github.com/Microsoft/TypeScript.git
+│     ├─ VendorName: Microsoft Corp.
+│     └─ VendorUrl: https://www.typescriptlang.org/
+├─ BSD-3-Clause
+│  └─ source-map-js@1.0.2
+│     ├─ URL: https://github.com/7rulnik/source-map-js.git
+│     ├─ VendorName: Valentin 7rulnik Semirulnik
+│     └─ VendorUrl: https://github.com/7rulnik/source-map-js
+├─ CC-BY-4.0
+│  └─ caniuse-lite@1.0.30001380
+│     ├─ URL: https://github.com/browserslist/caniuse-lite.git
+│     ├─ VendorName: Ben Briggs
+│     └─ VendorUrl: http://beneb.info
+├─ CC0-1.0
+│  ├─ @csstools/normalize.css@12.0.0
+│  │  ├─ URL: https://github.com/csstools/normalize.css.git
+│  │  ├─ VendorName: Jonathan Neal
+│  │  └─ VendorUrl: https://github.com/csstools/normalize.css#readme
+│  ├─ @csstools/selector-specificity@2.0.2
+│  │  ├─ URL: https://github.com/csstools/postcss-plugins.git
+│  │  └─ VendorUrl: https://github.com/csstools/postcss-plugins/tree/main/packages/selector-specificity#readme
+│  ├─ postcss-browser-comments@4.0.0
+│  │  ├─ URL: https://github.com/csstools/postcss-browser-comments.git
+│  │  ├─ VendorName: Jonathan Neal
+│  │  └─ VendorUrl: https://github.com/csstools/postcss-browser-comments#readme
+│  ├─ postcss-nesting@10.1.10
+│  │  ├─ URL: https://github.com/csstools/postcss-plugins.git
+│  │  ├─ VendorName: Jonathan Neal
+│  │  └─ VendorUrl: https://github.com/csstools/postcss-plugins/tree/main/plugins/postcss-nesting#readme
+│  ├─ postcss-normalize@10.0.1
+│  │  ├─ URL: https://github.com/csstools/postcss-normalize.git
+│  │  ├─ VendorName: Jonathan Neal
+│  │  └─ VendorUrl: https://github.com/csstools/postcss-normalize#readme
+│  └─ sanitize.css@13.0.0
+│     ├─ URL: https://github.com/csstools/sanitize.css.git
+│     ├─ VendorName: Jonathan Neal
+│     └─ VendorUrl: https://github.com/csstools/sanitize.css#readme
+├─ ISC
+│  ├─ electron-to-chromium@1.4.225
+│  │  ├─ URL: https://github.com/kilian/electron-to-chromium/
+│  │  └─ VendorName: Kilian Valkhof
+│  └─ picocolors@1.0.0
+│     ├─ URL: https://github.com/alexeyraspopov/picocolors.git
+│     └─ VendorName: Alexey Raspopov
+└─ MIT
+   ├─ autoprefixer@10.4.8
+   │  ├─ URL: https://github.com/postcss/autoprefixer.git
+   │  └─ VendorName: Andrey Sitnik
+   ├─ browserslist@4.21.3
+   │  ├─ URL: https://github.com/browserslist/browserslist.git
+   │  └─ VendorName: Andrey Sitnik
+   ├─ cssesc@3.0.0
+   │  ├─ URL: https://github.com/mathiasbynens/cssesc.git
+   │  ├─ VendorName: Mathias Bynens
+   │  └─ VendorUrl: https://mths.be/cssesc
+   ├─ esbuild-linux-64@0.14.54
+   │  └─ URL: https://github.com/evanw/esbuild
+   ├─ esbuild@0.14.54
+   │  └─ URL: https://github.com/evanw/esbuild
+   ├─ escalade@3.1.1
+   │  ├─ URL: https://github.com/lukeed/escalade.git
+   │  ├─ VendorName: Luke Edwards
+   │  └─ VendorUrl: https://lukeed.com
+   ├─ fraction.js@4.2.0
+   │  ├─ URL: git://github.com/infusion/Fraction.js.git
+   │  ├─ VendorName: Robert Eisele
+   │  └─ VendorUrl: https://www.xarg.org/2014/03/rational-numbers-in-javascript/
+   ├─ function-bind@1.1.1
+   │  ├─ URL: git://github.com/Raynos/function-bind.git
+   │  ├─ VendorName: Raynos
+   │  └─ VendorUrl: https://github.com/Raynos/function-bind
+   ├─ has@1.0.3
+   │  ├─ URL: git://github.com/tarruda/has.git
+   │  ├─ VendorName: Thiago de Arruda
+   │  └─ VendorUrl: https://github.com/tarruda/has
+   ├─ is-core-module@2.10.0
+   │  ├─ URL: git+https://github.com/inspect-js/is-core-module.git
+   │  ├─ VendorName: Jordan Harband
+   │  └─ VendorUrl: https://github.com/inspect-js/is-core-module
+   ├─ nanoid@3.3.4
+   │  ├─ URL: https://github.com/ai/nanoid.git
+   │  └─ VendorName: Andrey Sitnik
+   ├─ node-releases@2.0.6
+   │  ├─ URL: https://github.com/chicoxyzzy/node-releases.git
+   │  └─ VendorName: Sergey Rubanov
+   ├─ normalize-range@0.1.2
+   │  ├─ URL: https://github.com/jamestalmage/normalize-range.git
+   │  ├─ VendorName: James Talmage
+   │  └─ VendorUrl: github.com/jamestalmage
+   ├─ path-parse@1.0.7
+   │  ├─ URL: https://github.com/jbgutierrez/path-parse.git
+   │  ├─ VendorName: Javier Blanco
+   │  └─ VendorUrl: https://github.com/jbgutierrez/path-parse#readme
+   ├─ postcss-selector-parser@6.0.10
+   │  ├─ URL: https://github.com/postcss/postcss-selector-parser.git
+   │  └─ VendorUrl: https://github.com/postcss/postcss-selector-parser
+   ├─ postcss-value-parser@4.2.0
+   │  ├─ URL: https://github.com/TrySound/postcss-value-parser.git
+   │  ├─ VendorName: Bogdan Chadkin
+   │  └─ VendorUrl: https://github.com/TrySound/postcss-value-parser
+   ├─ postcss@8.4.16
+   │  ├─ URL: https://github.com/postcss/postcss.git
+   │  ├─ VendorName: Andrey Sitnik
+   │  └─ VendorUrl: https://postcss.org/
+   ├─ resolve@1.22.1
+   │  ├─ URL: git://github.com/browserify/resolve.git
+   │  ├─ VendorName: James Halliday
+   │  └─ VendorUrl: http://substack.net
+   ├─ rollup@2.77.3
+   │  ├─ URL: https://github.com/rollup/rollup.git
+   │  ├─ VendorName: Rich Harris
+   │  └─ VendorUrl: https://rollupjs.org/
+   ├─ supports-preserve-symlinks-flag@1.0.0
+   │  ├─ URL: git+https://github.com/inspect-js/node-supports-preserve-symlinks-flag.git
+   │  ├─ VendorName: Jordan Harband
+   │  └─ VendorUrl: https://github.com/inspect-js/node-supports-preserve-symlinks-flag#readme
+   ├─ update-browserslist-db@1.0.5
+   │  ├─ URL: https://github.com/browserslist/update-db.git
+   │  └─ VendorName: Andrey Sitnik
+   ├─ util-deprecate@1.0.2
+   │  ├─ URL: git://github.com/TooTallNate/util-deprecate.git
+   │  ├─ VendorName: Nathan Rajlich
+   │  └─ VendorUrl: https://github.com/TooTallNate/util-deprecate
+   └─ vite@3.0.9
+      ├─ URL: git+https://github.com/vitejs/vite.git
+      ├─ VendorName: Evan You
+      └─ VendorUrl: https://github.com/vitejs/vite/tree/main/#readme
